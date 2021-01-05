@@ -1,0 +1,4 @@
+baseURL = "http://doc.kanoak.com/"
+languageCode = "en-us"
+title = "Kanoak"
+theme = "paper"
