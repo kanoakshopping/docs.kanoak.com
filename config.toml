@@ -1,4 +1,4 @@
-baseURL = "http://doc.kanoak.com/"
+baseURL = "http://docs.kanoak.com/"
 languageCode = "en-us"
 title = "Kanoak"
 theme = "paper"
