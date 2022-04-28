@@ -1,4 +1,4 @@
-baseURL = "https://docs.kanoak.com/"
+baseURL = "https://docs.kanoak.app/"
 languageCode = "en-us"
 title = "Kanoak"
 theme = "paper"
